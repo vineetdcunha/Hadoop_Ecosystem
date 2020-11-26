@@ -20,6 +20,8 @@ HBase - Creating system for Employee data
 
 lo_pig - lo_discount_count, lo_revenue_sum - Lineorder data: Count and Sum
 
+Pig_Join_Agg -Pig to join and aggregate data from the Lineorder and Customer dataset.
+
 Hadoop_Multi_Node_WordCount - Fetching the word count from the file using python.
 
 Mahout_Page_Rank - Implementation of Page Rank algorithm using Mahout
