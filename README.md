@@ -9,3 +9,5 @@ Hive_transform - Hive QL and using python code to transform and load the data.
 Hadoop_Stream_Average - Calculate the average using Hadoop streaming and python file.
 
 HBase - Creating system for Employee data
+
+Pig - lo_discount_count, lo_revenue_sum - Lineorder data: Count and Sum
