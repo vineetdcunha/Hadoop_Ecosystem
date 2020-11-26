@@ -12,6 +12,8 @@ Hadoop_Stream_Average - Calculate the average using Hadoop streaming and python 
 
 Hadoop_Stream_Std_Dev - Calculate the standard deviation using Hadoop streaming and python file.
 
+Hadoop_Stream_Join - Hadoop Streaming to join the Employee and Customer dataset.
+
 HBase - Creating system for Employee data
 
 lo_pig - lo_discount_count, lo_revenue_sum - Lineorder data: Count and Sum
