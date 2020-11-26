@@ -1,6 +1,6 @@
 # Hadoop_Ecosystem
 
-WordCount_Python - Fetching the word count from the file using python.
+WordCount_Python - Fetching the word count from the file.
 
 Hive_Vehicle_data - Hive QL with vehicle data.
 
@@ -11,3 +11,5 @@ Hadoop_Stream_Average - Calculate the average using Hadoop streaming and python 
 HBase - Creating system for Employee data
 
 Pig - lo_discount_count, lo_revenue_sum - Lineorder data: Count and Sum
+
+Hadoop_Multi_Node_WordCount - Fetching the word count from the file using python.
