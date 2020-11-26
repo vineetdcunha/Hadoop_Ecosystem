@@ -16,6 +16,8 @@ Hadoop_Stream_Join - Hadoop Streaming to join the Employee and Customer dataset.
 
 Hadoop_Stream_Join_Agg - Hadoop Streaming to join and aggregate data from the Lineorder and Customer dataset.
 
+Hadoop_Stream_Cluster - Clustering using hadoop streaming.
+
 HBase - Creating system for Employee data
 
 lo_pig - lo_discount_count, lo_revenue_sum - Lineorder data: Count and Sum
